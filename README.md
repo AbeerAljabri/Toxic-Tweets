@@ -13,3 +13,11 @@ This project leverages the Toxic Tweets Dataset from Kaggle to identify and miti
 - Advanced Models: Utilize BERT (Bidirectional Encoder Representations from Transformers) models for a more sophisticated approach, comparing their performance against baseline models.
 - Dataset Expansion: Add a 'persona' column to the dataset using the Riveter package, which analyzes social dynamics between personas mentioned in the texts. This feature provides additional contextual data that may influence toxicity detection.
 - Evaluation Metrics: Evaluate the models based on F1 score, precision, recall, and accuracy to ensure a comprehensive assessment of their performance.
+
+
+### Dataset source
+[Toxic Tweets]([https://www.kaggle.com/datasets/datafiniti/hotel-reviews?select=Datafiniti_Hotel_Reviews.csv](https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset) )
+
+
+### Built with
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
