@@ -16,7 +16,7 @@ This project leverages the Toxic Tweets Dataset from Kaggle to identify and miti
 
 
 ### Dataset source
-[Toxic Tweets]([https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset])
+[Toxic Tweets](https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset)
 
 
 ### Built with
