@@ -1,5 +1,4 @@
-# Toxic-Tweets
-# Identifying Toxicity in Tweets Using Machine Learning and Persona Analysis
+# Toxic-Tweets:  Identifying Toxicity in Tweets Using Machine Learning and Persona Analysis
 
 ## Overview
 This project leverages the Toxic Tweets Dataset from Kaggle to identify and mitigate online toxicity using advanced natural language processing (NLP) techniques and machine learning models. By expanding our dataset with contextual persona information, we aim to enhance the accuracy of toxicity detection.
